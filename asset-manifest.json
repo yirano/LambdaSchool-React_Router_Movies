@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Router-Movies/static/css/main.b6bf4a22.chunk.css",
+    "main.js": "/React-Router-Movies/static/js/main.61f4711c.chunk.js",
+    "main.js.map": "/React-Router-Movies/static/js/main.61f4711c.chunk.js.map",
+    "runtime-main.js": "/React-Router-Movies/static/js/runtime-main.90f1861e.js",
+    "runtime-main.js.map": "/React-Router-Movies/static/js/runtime-main.90f1861e.js.map",
+    "static/js/2.d7f1bcc4.chunk.js": "/React-Router-Movies/static/js/2.d7f1bcc4.chunk.js",
+    "static/js/2.d7f1bcc4.chunk.js.map": "/React-Router-Movies/static/js/2.d7f1bcc4.chunk.js.map",
+    "index.html": "/React-Router-Movies/index.html",
+    "precache-manifest.ed2d6b39e5f95a2f93840c679e1e8efa.js": "/React-Router-Movies/precache-manifest.ed2d6b39e5f95a2f93840c679e1e8efa.js",
+    "service-worker.js": "/React-Router-Movies/service-worker.js",
+    "static/css/main.b6bf4a22.chunk.css.map": "/React-Router-Movies/static/css/main.b6bf4a22.chunk.css.map",
+    "static/js/2.d7f1bcc4.chunk.js.LICENSE.txt": "/React-Router-Movies/static/js/2.d7f1bcc4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f1861e.js",
+    "static/js/2.d7f1bcc4.chunk.js",
+    "static/css/main.b6bf4a22.chunk.css",
+    "static/js/main.61f4711c.chunk.js"
+  ]
+}
